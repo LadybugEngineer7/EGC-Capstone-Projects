@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.svg" alt="C++ Logo" width="120"/>
-</p>
-
 <h1 align="center">EGC C++ Capstone Projects</h1>
 
 <p align="center">
